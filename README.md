@@ -92,7 +92,7 @@ Two windows will open simultaneously:
 - Drag X source slowly from 0 outward to watch the ring break into arcs
 - Increase Theta_E to simulate a more massive lens
 - Increase Sigma to see how source size affects the ring sharpness
-- The Theta_E slider affects both windows simultaneously
+- The Theta_E and Sigma slides affects both windows simultaneously
 
 ---
 
@@ -122,7 +122,7 @@ The simulation is validated against the following analytic results:
 - Einstein ring radius matches θ_E exactly at perfect alignment
 - Two image positions follow θ± = (β ± √(β² + 4θ_E²)) / 2
 - Total magnification follows the Paczynski formula μ = (u² + 2) / (u√(u² + 4))
-- Images always appear on opposite sides of the lens centre
+- Images always appear on opposite sides of the lens center
 
 ---
 
