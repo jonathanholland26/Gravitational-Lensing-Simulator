@@ -148,10 +148,4 @@ Planned extensions for future versions:
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 *Built by Jonathan Holland — March 2026*
