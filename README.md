@@ -143,9 +143,7 @@ Planned extensions for future versions:
 
 - Narayan & Bartelmann (1996) — [Lectures on Gravitational Lensing](https://arxiv.org/abs/astro-ph/9606001)
 - Paczynski (1986) — [Gravitational Microlensing at Large Optical Depth](https://articles.adsabs.harvard.edu/pdf/1986ApJ...301..503P)
-- NASA — [Gravitational Lensing](https://science.nasa.gov/universe/galaxies/gravitational-lensing/)
-- ESA Hubble — [Einstein Ring Gallery](https://www.esa.int/Science_Exploration/Space_Science/Einstein_rings)
-
+  
 ---
 
 *Built by Jonathan Holland — March 2026*
