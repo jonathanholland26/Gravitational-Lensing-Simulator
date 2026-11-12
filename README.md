@@ -126,19 +126,6 @@ The simulation is validated against the following analytic results:
 
 ---
 
-## Roadmap
-
-Planned extensions for future versions:
-
-- Multiple source shapes — galaxy image, grid pattern, star field
-- Binary lens model — two mass system used in exoplanet detection
-- Singular Isothermal Sphere (SIS) — realistic galaxy mass profile
-- NFW profile — dark matter halo lensing
-- Magnification light curve plot alongside the animation
-- Galaxy cluster lensing with multiple mass components
-
----
-
 ## References
 
 - Narayan & Bartelmann (1996) — [Lectures on Gravitational Lensing](https://arxiv.org/abs/astro-ph/9606001)
